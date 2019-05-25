@@ -1,0 +1,1 @@
+This webapp is built following Wes Bos' course on React and it's a simulation of a seafood market website where the store owner can update price and and quantity available of the products displayed, as well as a section with an order form.
